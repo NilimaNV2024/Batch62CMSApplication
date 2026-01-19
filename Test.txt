@@ -1,1 +1,4 @@
 java is programming language.
+Java is strong language.
+
+HTML is Hyper Text Markup Language.
